@@ -1,0 +1,57 @@
+body {
+	margin: 10px;
+}
+
+#header {
+	background-color: orange;
+	overflow: hidden;
+	max-height: 100px;
+
+}
+
+#logo {
+	float: left;
+	margin-left: 20px;
+}
+
+#menu {
+	float: right;
+	margin-right: 20px;
+}
+
+#banner {
+	min-height: 200px;
+	background-color: green;
+}
+
+#container {
+	overflow: hidden;
+}
+
+.service1 {
+	width: 33%;
+	background-color: red;
+	min-height: 300px;
+	float: left;
+}
+
+
+.service2 {
+	width: 33%;
+	background-color: blue;
+	min-height: 300px;
+	float: left;
+}
+
+
+.service3 {
+	width: 33%;
+	background-color: #737994;
+	min-height: 300px;
+	float: left;
+}
+
+#footer {
+	height: 100px;
+	background-color: #574E9C;
+}
